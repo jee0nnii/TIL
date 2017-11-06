@@ -7,7 +7,7 @@ package day171106;
 
 public class PrintTriangle {
 	public String printTriangle(int num) {
-		//1.
+		// 1.
 		 String tri = "";
 		 for (int i = 0; i < num; i++) {
 		 for (int stars = 0; stars < i + 1; stars++) {
@@ -17,7 +17,7 @@ public class PrintTriangle {
 		 }
 		 return tri;
 
-		//2.
+		// 2.
 		// String result = "";
 		// String stars ="*";
 		// for (int i =0;i<num;i++) {
@@ -26,7 +26,7 @@ public class PrintTriangle {
 		// }
 		// return result;
 
-		//3.
+		// 3.
 		// StringBuilder sb = new StringBuilder();
 		// for (int i = 0; i < num; i++) {
 		// for (int stars = 0; stars < i + 1; stars++) {

@@ -12,7 +12,7 @@ public class WaterMelon{
 			str += (i %2 == 0)? "¼ö" : "¹Ú";
 		}
 	
-/*	String str ="";
+	/*	String str ="";
 	for (int i=0; i<num; i++) {
 		if (i%2==0) {
 			str = str + "¼ö";
