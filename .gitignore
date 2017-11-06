@@ -3,9 +3,7 @@
 /.setting/
 /.classpath
 /.project
-<<<<<<< HEAD
 
-=======
 # Created by https://www.gitignore.io/api/git,java,python,eclipse,jupyternotebook
 
 ### Eclipse ###
@@ -203,4 +201,4 @@ venv.bak/
 .mypy_cache/
 
 # End of https://www.gitignore.io/api/git,java,python,eclipse,jupyternotebook
->>>>>>> cce8022dfc38f2dfe0addcebc026ff58f61d0ed2
+
